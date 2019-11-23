@@ -57,6 +57,8 @@ namespace StudentClassConsole
                 Console.WriteLine("Не равны");
             }
 
+            Console.WriteLine($"Индексатор: {student1[0]}");
+
             string strTorevers = "Hello world!";
             Console.WriteLine(strTorevers.ReverseString());
             Console.ReadKey();

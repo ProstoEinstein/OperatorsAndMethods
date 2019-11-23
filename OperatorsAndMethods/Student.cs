@@ -139,5 +139,22 @@ namespace OperatorsAndMethods
             }
             this.AverageMark = averageMark;
         }
+
+        /// <summary>
+        /// Average score indexer. Just let it be :)
+        /// </summary>
+        /// <param name="mark"></param>
+        /// <returns></returns>
+        public double this[double mark]
+        {
+            get
+            {
+                if (mark < 0)
+                {
+                    throw new IndexOutOfRangeException();
+                }
+                return this.AverageMark;
+            }
+        }
     }
 }
