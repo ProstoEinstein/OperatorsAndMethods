@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\obj\Debug\StudentClassConsole.csprojAssemblyReference.cache
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\obj\Debug\StudentClassConsole.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\bin\Debug\StudentClassConsole.exe.config
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\bin\Debug\StudentClassConsole.exe
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\bin\Debug\StudentClassConsole.pdb
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\bin\Debug\OperatorsAndMethods.dll
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\bin\Debug\OperatorsAndMethods.pdb
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\obj\Debug\StudentClassConsole.csproj.CopyComplete
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\obj\Debug\StudentClassConsole.exe
+D:\Visual Studio Projects\OperatorsAndMethods\StudentClassConsole\obj\Debug\StudentClassConsole.pdb

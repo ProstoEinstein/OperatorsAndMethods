@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\bin\Debug\netstandard2.0\OperatorsAndMethods.deps.json
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\bin\Debug\netstandard2.0\OperatorsAndMethods.dll
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\bin\Debug\netstandard2.0\OperatorsAndMethods.pdb
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\obj\Debug\netstandard2.0\OperatorsAndMethods.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\obj\Debug\netstandard2.0\OperatorsAndMethods.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\obj\Debug\netstandard2.0\OperatorsAndMethods.AssemblyInfo.cs
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\obj\Debug\netstandard2.0\OperatorsAndMethods.dll
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\obj\Debug\netstandard2.0\OperatorsAndMethods.pdb
+D:\Visual Studio Projects\OperatorsAndMethods\OperatorsAndMethods\obj\Debug\netstandard2.0\OperatorsAndMethods.csprojAssemblyReference.cache
